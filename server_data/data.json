@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Thanawat Sriwilai",
+      "email": "thanawat@gmail.com",
+      "password": "qwerty",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "fullname": "Wirisinee Nuala-ong",
+      "email": "wirisinee@mail.com",
+      "password": "qwerty",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "fullname": "PP",
+      "email": "p@gmail.com",
+      "password": "qwerty",
+      "gender": "None"
+    }
+  ]
+}
